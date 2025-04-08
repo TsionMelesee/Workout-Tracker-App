@@ -1,20 +1,16 @@
-# Favorite_Place
+## Workout Tracker App
 
-## Features
+A beautiful and interactive Flutter app for managing and completing daily workout routines. Built with Flutter and Bloc for state management.
 
-- **Add Places**: Users can add new places by selecting a photo, entering a title, and choosing a location on a map.
-- **Location Picker**: Choose a location by selecting a spot on the map or using the current location.
-- **Image Storage**: Photos are stored locally in the app’s directory for each saved place.
-- **Location-based Display**: View saved places with their exact coordinates and address displayed.
+📱 Features
+🏋️ View daily workouts with title, duration, calories, and author.
 
----
+🔁 See exercises with a countdown timer and motivational image.
 
-## Technologies
+⏸️ Pause and resume timer functionality.
 
-- **Flutter**: Built using Flutter and Dart for cross-platform compatibility.
-- **SQLite**: Local database management to store place details.
-- **Google Maps**: Integrated Google Maps for location selection and display.
-- **Flutter Riverpod**: State management for the app’s reactive components.
-- **Path Provider**: Access the device's file storage for storing image files.
+✅ Mark an exercise as complete and proceed to the next.
 
----
+🌟 Rate your workout experience after completion.
+
+📊 Automatically track workout stats like total minutes and calories burned.
